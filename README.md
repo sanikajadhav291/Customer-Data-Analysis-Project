@@ -24,7 +24,7 @@ This project uses the **Telecom Churn Dataset** sourced from Kaggle.
 * Built interactive dashboard using charts and slicers
 
 
-## 🔹 AI Dashboard
+##  AI Dashboard
 
 * Used AI tools to generate dashboard
 * Compared manual vs automated insights
