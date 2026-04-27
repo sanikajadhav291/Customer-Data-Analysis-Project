@@ -1,4 +1,4 @@
-# 📊 Customer Data Analysis Project (Excel + AI)
+# 📊 Telecom-Customer-Churn-Analysis-Excel
 
 ##  Overview
 
