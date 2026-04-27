@@ -1,4 +1,4 @@
-# 📊 Telecom-Customer-Churn-Analysis-Excel
+# 📊 Telecom Customer Churn Analysis (Excel + AI)
 
 ##  Overview
 
