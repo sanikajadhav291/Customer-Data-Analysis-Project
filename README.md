@@ -37,3 +37,16 @@ This project demonstrates data cleaning, analysis, and dashboard creation using 
 
 * Microsoft Excel
 * AI-assisted Excel tools
+
+## 📊 Manual Dashboard
+
+![Manual 1](Manual_Dashboard_1.png)
+![Manual 2](Manual_Dashboard_2.png)
+
+---
+
+## 🤖 AI Dashboard
+
+![AI 1](AI_Dashboard_1.png)
+![AI 2](AI_Dashboard_2.png)
+![AI 3](AI_Dashboard_3.png)
